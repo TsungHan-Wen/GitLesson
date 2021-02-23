@@ -16,7 +16,7 @@ public class PrintTriangle {
 	
 	public static void triangle1 () {
 		
-		System.out.print("git測試");
+		System.out.print("git測試V3");
 		
 		Scanner input = new Scanner(System.in);
 		System.out.print("請輸入三角形的層數：");
